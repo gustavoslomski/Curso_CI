@@ -1,4 +1,4 @@
-name: Pipe
+name: Go
 
 on:
   push:
