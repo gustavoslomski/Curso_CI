@@ -16,5 +16,5 @@ func ValidaDadosDeAluno(aluno *Aluno) error {
 	if err := validator.Validate(aluno); err != nil {
 		return err
 	}
-	return nil
+	nil
 }
